@@ -1,0 +1,13 @@
+{
+  "name": "Radish",
+  "daysGerminate": { "from": 0 , "to": 4 },
+  "daysGrow": { "from": 5, "to": 7 },
+  "daysHarvest": { "from": 8, "to": 12 },
+  "seedsPerOunce": { "from": 2500, "to": 4000 },
+  "flavorProfile": ["crunchy", "spicy"],
+  "Nutrition": ["Vitamin A", "Vitamin B1", "Vitamin B6", "Vitamin C", "Vitamin E", "Vitamin K", "Folic acid", "Calcium", "Magnesium", "Niacin", "Potassium", "Pantothenic acid", "Iron", "Phosphorus", "Zinc", "Carotenes"],
+  "recipes": [],
+  "resources": [],
+  "storage": "",
+  "images": []
+}
